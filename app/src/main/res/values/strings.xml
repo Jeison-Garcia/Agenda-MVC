@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AgendaMVC</string>
+    <string name="app_title">Agenda</string>
+    <string name="id_title">ID</string>
+    <string name="date_title">Fecha</string>
+    <string name="subject_title">Asunto</string>
+    <string name="activity_title">Actividad</string>
+    <string name="id_hint">ID de agenda</string>
+    <string name="date_hint">01/01/2000</string>
+    <string name="subject_hint">Nombre de la actividad</string>
+    <string name="activity_hint">Descripción de la actividad</string>
+    <string name="insert_title_btn">CREAR EVENTO</string>
+    <string name="consult_title_btn">CONSULTAR</string>
+</resources>
